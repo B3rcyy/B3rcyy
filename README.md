@@ -11,10 +11,10 @@ EcoCash is a custom item retrieval plugin built on top of Essentials for Minecra
  With this plugin, you have the ability to create unique items containing names and customized model data. 
  Thanks to integration with Essentials, you can easily manage and retrieve these custom items on your own server.
 
-**CMI Importer** - Seamless Currency Transfer from CMI to Essentials
+**CMI Importer** - Seamless Currency Transfer from CMI to Essentials vault
 
-The CMI Importer is a bridge plugin designed to streamline currency management between CMI (Customizable Math Interface) and Essentials on Minecraft servers. 
-  With this plugin in place, you can effortlessly synchronize and transfer currency data from the CMI database to the Essentials economy system.
+The CMI Importer is a bridge plugin designed to streamline currency management between CMI and Essentials vault on Minecraft servers. 
+  With this plugin in place, you can effortlessly synchronize and transfer currency data from the CMI database to the vault economy system.
 
 **AntiPlayer Fishing** - Player Tug Prevention
 
