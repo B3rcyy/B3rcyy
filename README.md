@@ -17,5 +17,6 @@ Hello there! I'm Bercyy, a passionate developer with a rich journey through the 
 ### Let's Connect!
 Feel free to reach out if you're interested in collaborating on a project, or if you just want to chat about the latest in tech. I'm always open to connecting with like-minded individuals who are passionate about making a difference through code.
 
-![Bercyy] (https://i.imgur.com/f7ouzin.png)
 
+
+<img src="https://i.imgur.com/f7ouzin.png" width = "240" height = "150" alt="Logo" align=right />
