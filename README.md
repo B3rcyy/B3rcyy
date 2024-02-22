@@ -19,4 +19,4 @@ Feel free to reach out if you're interested in collaborating on a project, or if
 
 
 
-<img src="https://i.imgur.com/f7ouzin.png" width = "240" height = "150" alt="Logo" align=right />
+<img src="https://i.imgur.com/f7ouzin.png" width = "400" height = "200" alt="Logo" align=right />
