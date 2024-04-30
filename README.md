@@ -19,5 +19,6 @@ Feel free to reach out if you're interested in collaborating on a project, or if
 
 
 
-<img src="https://i.imgur.com/f7ouzin.png" width = "300" height = "300" alt="Logo" align=left /> ![image](https://github.com/B3rcyy/B3rcyy/assets/135714882/8dd71c8b-a087-4d86-83d6-54e1892ddb4c)
+<img src="https://i.imgur.com/f7ouzin.png" width = "300" height = "300" alt="Logo" align=left /> ![image](https://github.com/B3rcyy/B3rcyy/assets/135714882/8dd71c8b-a087-4d86-83d6-54e1892ddb4c) ![image](https://github.com/B3rcyy/B3rcyy/assets/135714882/f039242f-4d42-4d04-9c36-fc1772c39496)
+
 
