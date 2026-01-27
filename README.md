@@ -46,9 +46,9 @@ Hello! I'm **Bercyy**, a full-stack developer with **10+ years of experience** b
 
 ## 🌍 Web References
 
-- **timespot.hu** — My own SaaS platform
-- **linklike.hu** — Reference project (2026)
-- **pgvillany.hu** — Reference project (2025)
+- https://timespot.hu — My own SaaS platform
+- https://linklike.hu — Reference project (2026)
+- https://pgvillany.hu — Reference project (2025)
 - https://konzi.erkelferenc.eu/  
 - https://egressybeni.hu/viennakons/  
 - https://egyetem.erkelferenc.eu/  
@@ -84,3 +84,6 @@ Feel free to reach out if you want to collaborate, build something serious, or j
 
 ![image](https://github.com/B3rcyy/B3rcyy/assets/135714882/8dd71c8b-a087-4d86-83d6-54e1892ddb4c)
 ![image](https://github.com/B3rcyy/B3rcyy/assets/135714882/f039242f-4d42-4d04-9c36-fc1772c39496)
+<img width="190" height="25" alt="image" src="https://github.com/user-attachments/assets/02079bc8-797c-429e-860d-b2d82faf8014" />
+
+
