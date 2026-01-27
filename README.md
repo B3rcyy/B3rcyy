@@ -1,24 +1,86 @@
 # Welcome to Bercyy's GitHub Profile! 🌟
 
-Hello there! I'm Bercyy, a passionate developer with a rich journey through the realms of coding. My adventure began back in 2014, diving deep into the world of Java. 
+Hello! I'm **Bercyy**, a full-stack developer with **10+ years of experience** building production-ready systems, SaaS platforms, and enterprise solutions. I focus on **clean architecture, real business logic, and scalable backends** — not templates or quick hacks.
 
-🔹 **Java  (2014-2017, 2022-Present):** My first foray into programming, where I mastered the art of object-oriented programming, developing applications that were not only functional but also efficient and scalable.
+---
 
-🔹 **Lua  (2017-2022):** Transitioning to Lua, I became a vital part of several major projects. My role was crucial in bringing to life numerous fun and useful plugins, contributing to the community and enhancing user experiences across platforms.
+## 🚀 Own Product / Startup Project
 
-🔹 **Current Focus:** Today, I continue to explore new technologies, returning to Java with a fresh perspective and integrating my diverse experiences to contribute to innovative projects. My passion lies in creating solutions that make a difference, using my skills to tackle challenges and push the boundaries of what's possible.
+### 🕒 TimeSpot — https://timespot.hu  
+**Founder & Lead Developer**
 
-🚀 I'm always on the lookout for new adventures in code. 
+**TimeSpot** is my own SaaS project, built from the ground up to provide a modern **appointment booking & management platform** for entrepreneurs and service providers.
 
-### What I Love to Do
-- **Innovative Problem Solving:** Turning complex challenges into simple, elegant solutions.
-- **Continuous Learning:** Keeping up with the latest in tech to refine and expand my skills.
+**Highlights:**
+- Business subpages & admin dashboards
+- Automated **Email & SMS notifications**
+- Token-based SMS system
+- Secure deposits & payout flow
+- API-first, scalable backend design
 
-### Let's Connect!
-Feel free to reach out if you're interested in collaborating on a project, or if you just want to chat about the latest in tech. I'm always open to connecting with like-minded individuals who are passionate about making a difference through code.
+**Tech focus:**
+- Node.js (backend)
+- PostgreSQL
+- Custom business logic (no WordPress / no templates)
 
+---
 
+## 🧠 Tech Journey & Experience
 
-<img src="https://i.imgur.com/f7ouzin.png" width = "300" height = "300" alt="Logo" align=left /> ![image](https://github.com/B3rcyy/B3rcyy/assets/135714882/8dd71c8b-a087-4d86-83d6-54e1892ddb4c) ![image](https://github.com/B3rcyy/B3rcyy/assets/135714882/f039242f-4d42-4d04-9c36-fc1772c39496)
+- **Java (2014–2017, 2022–Present)**  
+  Strong OOP foundation, clean architecture, scalable systems.
 
+- **Lua (2017–2022)**  
+  Core contributor to major projects, building complex and useful plugins.
 
+- **Node.js & Web Development (Active)**  
+  REST APIs, backend systems, authentication, file handling, performance-focused solutions.
+
+- **Flutter (Enterprise Digitalization)**  
+  Custom mobile apps for internal workflows and digitalization projects.
+
+- **AI Development (Active)**  
+  I also work on AI-related developments — integrating AI into products, automating workflows, and building practical AI-powered features.
+
+---
+
+## 🌍 Web References
+
+- **timespot.hu** — My own SaaS platform
+- **linklike.hu** — Reference project (2026)
+- **pgvillany.hu** — Reference project (2025)
+- https://konzi.erkelferenc.eu/  
+- https://egressybeni.hu/viennakons/  
+- https://egyetem.erkelferenc.eu/  
+- https://www.drama.erkelferenc.eu/  
+
+➡️ I’m currently the **active developer** of the Erkel Ferenc related sites listed above — these platforms are undergoing **modernization** *(status: 2026.01.26)*.
+
+---
+
+## 🏢 Enterprise References (NDA)
+
+I build custom Flutter apps for companies (details are limited due to confidentiality):
+- **Chio Hungary**
+- **Győri Hűtőház — Ice Solutions Kft.**
+
+---
+
+## 💡 What I Love Working On
+- Innovative problem solving (complex → simple)
+- Backend-heavy systems with real business logic
+- Modernizing legacy platforms
+- Product mindset / SaaS development
+- Automation & AI-powered features
+
+---
+
+## 🤝 Let’s Connect!
+Feel free to reach out if you want to collaborate, build something serious, or just talk tech.
+
+---
+
+<img src="https://i.imgur.com/f7ouzin.png" width="300" height="300" alt="Logo" align="left" />
+
+![image](https://github.com/B3rcyy/B3rcyy/assets/135714882/8dd71c8b-a087-4d86-83d6-54e1892ddb4c)
+![image](https://github.com/B3rcyy/B3rcyy/assets/135714882/f039242f-4d42-4d04-9c36-fc1772c39496)
