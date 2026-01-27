@@ -1,5 +1,7 @@
 # Welcome to Bercyy's GitHub Profile! 🌟
 
+<img src="https://i.imgur.com/f7ouzin.png" width="300" height="300" alt="Logo" align="left" />
+
 Hello! I'm **Bercyy**, a full-stack developer with **10+ years of experience** building production-ready systems, SaaS platforms, and enterprise solutions. I focus on **clean architecture, real business logic, and scalable backends** — not templates or quick hacks.
 
 ---
@@ -80,7 +82,7 @@ Feel free to reach out if you want to collaborate, build something serious, or j
 
 ---
 
-<img src="https://i.imgur.com/f7ouzin.png" width="300" height="300" alt="Logo" align="left" />
+
 
 ![image](https://github.com/B3rcyy/B3rcyy/assets/135714882/8dd71c8b-a087-4d86-83d6-54e1892ddb4c)
 ![image](https://github.com/B3rcyy/B3rcyy/assets/135714882/f039242f-4d42-4d04-9c36-fc1772c39496)
